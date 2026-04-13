@@ -69,7 +69,7 @@ SmartControl-IoT/
 ---
 
 ## 📊 Arquitetura Visual
-Adicione aqui o diagrama do sistema para melhor visualização.
+![Diagrama](link-da-imagem)
 
 ---
 
