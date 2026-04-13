@@ -69,7 +69,7 @@ SmartControl-IoT/
 ---
 
 ## 📊 Arquitetura Visual
-![Diagrama](link-da-imagem)
+![Diagrama](https://github.com/Maria-Yasmim-hr/SmartControl-IoT/blob/main/diagrama.png)
 
 ---
 
