@@ -42,21 +42,28 @@ O sistema foi desenvolvido com foco em **arquitetura moderna**, separando respon
 
 ### 🔐 Autenticação
 POST /auth/login
+
 POST /auth/register
 
 
 ### 📡 IoT
 GET /iot/devices
+
 POST /iot/devices/{id}/toggle
 
 ---
 
 ## ☁️ Estrutura do Projeto
 SmartControl-IoT/
+
 ├── auth_service
+
 ├── iot-service
+
 ├── api-gateway
+
 ├── web-frontend
+
 └── mobile-app
 
 ---
